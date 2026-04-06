@@ -85,11 +85,11 @@ class Darshil:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darshil202&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=6C63FF&icon_color=6C63FF&text_color=cccccc&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Darshil202&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=6C63FF&icon_color=6C63FF&text_color=cccccc&rank_icon=github" width="100%"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Darshil202&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=6C63FF&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Darshil202&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=6C63FF&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF" width="100%"/>
 
 </td>
 </tr>
@@ -228,7 +228,7 @@ class Darshil:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshil202&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=6C63FF&text_color=cccccc" height="160"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Darshil202&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=6C63FF&text_color=cccccc" height="160"/>
 
 <br/><br/>
 
