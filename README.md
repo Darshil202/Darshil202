@@ -1,27 +1,254 @@
-# 💫 About Me:
-🔭 I’m currently working on a Gym Attendance System, focusing on efficient tracking and user-friendly design.<br><br>👯 I’m looking to collaborate on projects related to software development, web applications, and AI/ML-based systems.<br><br>🤝 I’m looking for help with improving system scalability, integrating AI features, and optimizing database performance.<br><br>🌱 I’m currently learning Artificial Intelligence and Machine Learning, along with strengthening my core development skills.<br><br>💬 Ask me about building practical real-world systems.<br><br>⚡ Fun fact: I enjoy turning simple ideas into working projects and experimenting with new tech stacks.
+<div align="center">
 
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=120&section=header&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshiltannaofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/darshil-tanna-b70191348) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@darshiltannaofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tannadarshil7@gmail.com) 
+<!-- NAME -->
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Darshil202&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Darshil202&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshil202&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```
+██████╗  █████╗ ██████╗ ███████╗██╗  ██╗██╗██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║
+██║  ██║███████║██████╔╝███████╗███████║██║██║
+██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║
+██████╔╝██║  ██║██║  ██║███████║██║  ██║██║███████╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Darshil202&theme=react&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=SaaS+Founder+%26+Developer;Building+products+people+actually+use;Angular+%7C+Python+%7C+AI%2FML;Turning+ideas+into+revenue" alt="Typing SVG" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Darshil202&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+<br/><br/>
+
+<!-- SOCIAL BADGES — DARK PREMIUM STYLE -->
+<a href="https://linkedin.com/in/darshil-tanna-b70191348">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=6C63FF"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/darshiltannaofficial">
+  <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=6C63FF"/>
+</a>
+&nbsp;
+<a href="https://youtube.com/@darshiltannaofficial">
+  <img src="https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=6C63FF"/>
+</a>
+&nbsp;
+<a href="mailto:tannadarshil7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=6C63FF"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Darshil202&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS&abbreviated=true"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Darshil202&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<!-- ABOUT SECTION -->
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `$ whoami`
+
+```yaml
+name:       Darshil Tanna
+role:       SaaS Founder & Developer
+location:   Ahmedabad, India
+focus:      Building software that ships
+```
+
+<br/>
+
+I don't just write code — I build products.  
+Currently shipping **Nextlyr**, a SaaS gym attendance platform, while deepening my roots in **AI/ML** and full-stack development.
+
+I care about systems that work in the real world — clean architecture, thoughtful UX, and products that solve actual problems.
+
+<br/>
+
+```python
+class Darshil:
+    currently_building = "Nextlyr — Gym SaaS Platform"
+    learning          = ["AI/ML", "System Design"]
+    open_to           = "Web + AI collaborations"
+    philosophy        = "Ship. Iterate. Repeat."
+```
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Darshil202&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=6C63FF&icon_color=6C63FF&text_color=cccccc&rank_icon=github" width="100%"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Darshil202&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=6C63FF&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- CURRENT WORK -->
+<div align="center">
+
+### Currently Shipping
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+**Nextlyr** &nbsp;`Active`
+
+> SaaS platform for gym attendance & member management. Built with Angular, designed to be the operating system for fitness businesses.
+
+`Angular` `TypeScript` `PostgreSQL` `Supabase`
+
+</td>
+
+<td width="50%" valign="top">
+
+**LuckShack Bot** &nbsp;`Active`
+
+> Intelligent cashier automation system routing across 9 game portals. OCR-based modal reading, regex parsing, PyAutoGUI orchestration.
+
+`Python` `PyAutoGUI` `OCR` `Automation`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+**FitIQ** &nbsp;`Shipped`
+
+> AI-powered fitness app for Indian users. Personalized workout plans and Indian meal plans generated by LLaMA via Groq API.
+
+`React Native` `FastAPI` `Supabase` `Groq/LLaMA`
+
+</td>
+
+<td width="50%" valign="top">
+
+**Open to Building** &nbsp;`2025`
+
+> If you're working on something ambitious at the intersection of AI and real-world utility — let's talk.
+
+[`tannadarshil7@gmail.com`](mailto:tannadarshil7@gmail.com)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+
+### Tech Stack
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,html&theme=dark" />
+
+<br/><br/>
+
+**Frontend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=angular,react&theme=dark" />
+
+<br/><br/>
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,gcp&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+
+<br/><br/>
+
+**AI & Data Science**
+
+<img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/Groq_API-0d0d0d?style=for-the-badge&logo=groq&logoColor=6C63FF"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Anaconda-0d0d0d?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- STATS ROW -->
+<div align="center">
+
+### GitHub Analytics
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshil202&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=6C63FF&text_color=cccccc" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Darshil202&theme=radical&no-frame=true&margin-w=12&column=6"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=444444&center=true&vCenter=true&width=500&lines=Build+something+worth+using.;Then+build+it+better." />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=80&section=footer" />
+
+</div>
