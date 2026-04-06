@@ -125,7 +125,7 @@ class Darshil:
 
 <td width="50%" valign="top">
 
-**LuckShack Bot** &nbsp;`Active`
+**LuckShack Bot** &nbsp;`Building`
 
 > Intelligent cashier automation system routing across 9 game portals. OCR-based modal reading, regex parsing, PyAutoGUI orchestration.
 
@@ -148,7 +148,7 @@ class Darshil:
 
 <td width="50%" valign="top">
 
-**Open to Building** &nbsp;`2025`
+**Open to Building** &nbsp;`2026`
 
 > If you're working on something ambitious at the intersection of AI and real-world utility — let's talk.
 
