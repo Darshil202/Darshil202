@@ -19,7 +19,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=SaaS+Founder+%26+Developer;Building+products+people+actually+use;Angular+%7C+Python+%7C+AI%2FML;Turning+ideas+into+revenue" alt="Typing SVG" />
 
-<br/><br/>
+<br/><br>
 
 <!-- SOCIAL BADGES — DARK PREMIUM STYLE -->
 <a href="https://linkedin.com/in/darshil-tanna-b70191348">
